@@ -14,10 +14,7 @@
 https://studybook.tistory.com/
 
 ## 💻 Tech Stacks
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
-![React](http://img.shields.io/badge/-React-20232a?style=flat-square&logo=React)
-![Javascript](http://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> ![React](http://img.shields.io/badge/-React-20232a?style=flat-square&logo=React) ![Javascript](http://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats
 <p align="center">
