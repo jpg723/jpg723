@@ -1,6 +1,8 @@
 # Hi there👋
 <p align="right"> </p>  
-
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
 <!--
 **jpg723/jpg723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +26,4 @@ Here are some ideas to get you started:
 |동덕여대 교내 게임 개발 동아리 NPC 5기|2022.01~|NPC 5기 개발팀|
 
 <p align="right"> </p>  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlgns0705)](https://solved.ac/rlgns0705)
+
