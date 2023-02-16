@@ -14,5 +14,5 @@
 https://studybook.tistory.com/
 
 ## 📊 My GitHub Stats
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpg723&show_icons=true&theme=dracula width="65%")
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpg723&show_icons=true&theme=dracula)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpg723" width="28%">
