@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌱 About Me
+## 💁‍ About Me
 |**활동**|**기간**|**활동내용**|
 |:---:|:---:|:---:|
 |코드클럽 찾아가는 SW교육기부단|2022.09~2022.12|초등학생 대상 SW교육 프로그램 기획 및 운영|
