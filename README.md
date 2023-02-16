@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 |동덕여대 교내 게임 개발 동아리 NPC 5기|2022.01~|NPC 5기 개발팀|
 
 <p align="right"> </p>  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlgns0705)](https://solved.ac/rlgns0705)
