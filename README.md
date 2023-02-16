@@ -1,6 +1,6 @@
 # Hi there👋
 <p align="right">  
-<a href="https://hits.seeyoufarm.com"><img width="20%"img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjpg723&count_bg=%234F8DFF&title_bg=%23858585&icon=github.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img width="20%" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjpg723&count_bg=%23F76B92&title_bg=%23282A36&icon=github.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false"/></a>
 </p>
 
 ## 💁‍ About Me
