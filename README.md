@@ -14,4 +14,4 @@
 https://studybook.tistory.com/
 
 ## 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpg723&show_icons=true&theme=dark)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpg723&show_icons=true&theme=dracula)
