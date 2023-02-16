@@ -10,7 +10,8 @@
 |네이버 커넥트재단과 함께하는 SW&AI캠프 1784스쿨혁명|2023.01~2023.2|초등학생 대상 엔트리, 네오씽카를 이용한 SW&AI 캠프 대학생 멘토로 참여|
 |동덕여대 교내 게임 개발 동아리 NPC 5기|2022.01~|NPC 5기 개발팀|
 
-## 💻 My Tistory
+## 📖 My Tistory
 https://studybook.tistory.com/
 
-
+## 
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpg723&show_icons=true&theme=dark)
