@@ -1,7 +1,5 @@
-# ABOUT JPG . . .
-<p align="right"> 
-<a href="https://hits.seeyoufarm.com"><img width="25%" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSujinJeong&count_bg=%23F55FD5&title_bg=%23767373&icon=&icon_color=%23E7E7E7&title=%EC%98%A4%EB%8A%98%EC%9D%98+%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=true"/></a>
-</p>  
+# Hi there👋
+<p align="right"> </p>  
 
 <!--
 **jpg723/jpg723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱
+## 🌱 About Me
+
