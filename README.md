@@ -13,5 +13,6 @@
 ## 📖 My Tistory
 https://studybook.tistory.com/
 
-## 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpg723&show_icons=true&theme=dracula)
+## 📊 My GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=jpg723&show_icons=true&theme=dracula width="65%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpg723" width="28%">
