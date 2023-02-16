@@ -10,12 +10,14 @@
 |네이버 커넥트재단과 함께하는 SW&AI캠프 1784스쿨혁명|2023.01~2023.2|초등학생 대상 엔트리, 네오씽카를 이용한 SW&AI 캠프에 대학생 멘토로 참여|
 |동덕여대 교내 게임 개발 동아리 NPC 5기|2022.01~|NPC 5기 개발팀|
 
-## 📖 My Tistory
+## 📖 Tistory
 https://studybook.tistory.com/
 
-## 📊 My GitHub Stats
+## 🔧 Tech Stacks
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+
+## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jpg723&show_icons=true&theme=dracula" width = "65%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpg723" width="28%">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlalwl723)](https://solved.ac/dlalwl723)
 </p>
