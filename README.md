@@ -24,6 +24,11 @@ https://studybook.tistory.com/
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>  
 
+## 🏆Awards
+|:---:|
+|NPC 2022 게임 개발 온라인 해커톤 우수상|
+|2022 코드클럽 찾아가는 SW교육기부단 활동 우수 봉사단 우수상|
+
 ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jpg723&show_icons=true&theme=dracula" width = "65%">
