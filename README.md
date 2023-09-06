@@ -31,6 +31,7 @@ https://studybook.tistory.com/
 |:---:|
 |NPC 2022 게임 개발 온라인 해커톤 우수상|
 |2022 코드클럽 찾아가는 SW교육기부단 활동 우수 봉사단 우수상|
+|UMC 4th DEMODAY 우수상|
 
 ## 📊 GitHub Stats
 <p align="center">
