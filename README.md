@@ -11,6 +11,7 @@
 |코드클럽 찾아가는 SW교육기부단|2022.09~2022.12|초등학생 대상 SW교육 프로그램 기획 및 운영|
 |네이버 커넥트재단과 함께하는 SW&AI캠프 1784스쿨혁명|2023.01~2023.2|초등학생 대상 엔트리, 네오씽카를 이용한 SW&AI 캠프에 대학생 멘토로 참여|
 |대학생 개발 연합 동아리 UNIVERSITY MAKEUS CHALLENGE UMC|2023.03~2023.08|UMC 4기 WEB파트|
+|KT AIVLE School|2024.02~|KT AIVLE School 5기 AI트랙|
 
 ## 📖 Tistory
 https://studybook.tistory.com/
