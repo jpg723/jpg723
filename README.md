@@ -32,6 +32,5 @@ https://studybook.tistory.com/
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jpg723&show_icons=true&theme=dracula" width = "65%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpg723" width="28%">
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 </p>
