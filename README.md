@@ -31,14 +31,6 @@ https://studybook.tistory.com/
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 </p>  
 
-## 🏆Awards
-|**수상 내역**|
-|:---:|
-|2022 코드클럽 찾아가는 SW교육기부단 활동 우수 봉사단 우수상|
-|UMC 4th DEMODAY 우수상|
-|동덕여자대학교 제 12회 소프트웨어 경진대회 우수상|
-|동덕여자대학교 제 1회 VR/AR 지식재산 창업아이디어 경진대회 동상|
-
 ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jpg723&show_icons=true&theme=dracula" width = "65%">
